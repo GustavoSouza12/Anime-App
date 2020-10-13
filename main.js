@@ -37,9 +37,9 @@ function updateDom(data){
                         <div class="card">
                                 <div class="card-image">
                                 <img src="${anime.image_url}">
-                                <span class="card-title">${anime.title}</span>
                                 </div>
                                 <div class="card-content">
+                                <span class="card-title">${anime.title}</span>
                                 <p>${anime.synopsis}</p>
                             </div>
                             <div class="card-action">
