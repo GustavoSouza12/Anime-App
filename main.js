@@ -43,7 +43,7 @@ function updateDom(data){
                                 <p>${anime.synopsis}</p>
                             </div>
                             <div class="card-action">
-                                <a href="${anime.url}" target="_blank">AAAAAAA</a>
+                                <a href="${anime.url}" target="_blank">See more</a>
                             </div>
                         </div>
                     </div>`
